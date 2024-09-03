@@ -1,0 +1,3 @@
+# register model in admin.py in the restaurant application
+whenever we run server after adding model then we can not see that model in our admin panel
+for this 
