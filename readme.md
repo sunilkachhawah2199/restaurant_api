@@ -1,1 +1,1 @@
-django api for
+Python django api
